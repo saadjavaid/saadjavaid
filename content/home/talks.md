@@ -7,8 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Recent Talks"
 subtitle = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  # padding = ["30px", "0", "30px", "0"]
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -28,7 +32,6 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
@@ -39,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.

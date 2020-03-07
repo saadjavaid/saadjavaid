@@ -20,8 +20,26 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
+
+
+#[[main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 50
+
+#[[main]]
+# name = "Bio"
+#url = "/bio/"
+#weight = 42
+
+[[main]]
+  name = "Personal"
+  #parent = "Posts"
+  url = "/personal/"
+  weight = 45
+
 
 [[main]]
   name = "Contact"
@@ -34,3 +52,4 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+

@@ -1,0 +1,12 @@
++++
+title = "Perovskite Solar Cells: Potentials, Challenges, and Opportunities"
+date = 2015-01-01
+authors = ["Muhammad Imran Ahmed", "Amir Habib", "Syed Saad Javaid"]
+publication_types = ["0"]
+abstract = "Heralded as a major scientific breakthrough of 2013, organic/inorganic lead halide perovskite solar cells have ushered in a new era of renewed efforts at increasing the efficiency and lowering the cost of solar energy. As a potential game changer in the mix of technologies for alternate energy, it has emerged from a modest beginning in 2012 to efficiencies being claimed at 20.1% in a span of just two years. This remarkable progress, encouraging at one end, also points to the possibility that the potential may still be far from being fully realized. With greater insight into the photophysics involved and optimization of materials and methods, this technology stands to match or even exceed the efficiencies for single crystal silicon solar cells. With thin film solution processability, applicability to flexible substrates, and being free of liquid electrolyte, this technology combines the benefits of Dye Sensitized Solar Cells (DSSCs), Organic Photovoltaics (OPVs), and thin film solar cells. In this review we present a brief historic perspective to this development, take a cognizance of the current state of the art, and highlight challenges and the opportunities."
+selected = "false"
+publication = "*International Journal of Photoenergy*"
+doi =  "10.1155/2015/592308"
+url_pdf = "http://downloads.hindawi.com/journals/ijp/2015/592308.pdf"
++++
+
