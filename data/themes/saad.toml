@@ -5,14 +5,14 @@ name = "Saad"
 light = true
 
 # Primary
-primary = " #003057"
-primary_light = "#003057"
-primary_dark = "#002984"
+primary = " #5D5C61"
+primary_light = "#5D5C61"
+primary_dark = "#557A95"
 
 # Menu
-menu_primary = " #003057" # 500
+menu_primary = " #5D5C61" # 500
 menu_text = "#fff"
-menu_text_active = "#B3A369" # A100
+menu_text_active = "#B1A296" # A100
 menu_title = "#fff"
 
 # Home sections
@@ -20,7 +20,7 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
 # Links
-link = "#003057"
-link_hover = "#B3A369"
+link = "#557A95"
+link_hover = "#B1A296"
 
 
